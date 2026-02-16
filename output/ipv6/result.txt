@@ -604,6 +604,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 浙江钱江,https://stream1.freetv.fun/zhe-jiang-qian-jiang-du-shi-5.ctv
 浙江钱江都市,https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-2.m3u8
 浙江钱江都市,https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-3.m3u8
+浙江钱江都市,http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
 浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-1.ctv
 浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-7.ctv
 浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-8.ctv
@@ -612,6 +613,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 浙江经济生活,https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-3.m3u8
 浙江经济生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 浙江经济生活,https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-1.m3u8
+浙江经济生活,http://ali-xwl.cztv.com/live/channel03720Plxw.m3u8
 浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng-1.m3u8
 浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng-3.m3u8
 浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng-4.m3u8
@@ -645,6 +647,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-1.m3u8
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-3.m3u8
 浙江国际,https://t.freetv.fun/live/zhe-jiang-guo-ji-4.m3u8
+浙江国际,http://ali-xwl.cztv.com/live/channel10720Plxw.m3u8
 嘉兴新闻综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 湖州公共,https://t.freetv.fun/live/hu-zhou-gong-gong-1.m3u8
 湖州公共,https://t.freetv.fun/live/hu-zhou-gong-gong-2.m3u8
@@ -658,6 +661,8 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-5.m3u8
 浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-2.m3u8
 浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-3.m3u8
+浙江民生休闲,http://ali-xwl.cztv.com/live/channel06720Plxw.m3u8
+浙江教科影视,http://ali-xwl.cztv.com/live/channel04720Plxw.m3u8
 浙江公共新闻,https://stream1.freetv.fun/zhe-jiang-gong-gong-xin-wen-1.m3u8
 浙江公共新闻,https://stream1.freetv.fun/zhe-jiang-gong-gong-xin-wen-1.ctv
 浙江公共新闻,https://stream1.freetv.fun/zhe-jiang-gong-gong-xin-wen-2.ctv
@@ -2263,4 +2268,4 @@ CCTV-15,https://migu.188766.xyz/?migutoken=976fbac5e882ddcd96c9232fff6c42ed&id=C
 射雕英雄传,https://live.metshop.top/huya/23824164
 
 🕘️更新时间,#genre#
-2026-02-16 10:44:58,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-02-16 15:49:52,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
