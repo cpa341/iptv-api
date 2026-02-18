@@ -432,6 +432,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 宁夏卫视,https://migu.188766.xyz/?migutoken=c52d2cbc855f54e31cfb6e86fc7cd755&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&type=yy
 宁夏卫视,https://migu.188766.xyz/?migutoken=13caacff41d2b1065f1a991115bbf760&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&type=yy
 宁夏卫视,https://migu.188766.xyz/?migutoken=a7d8dc99bf88dfc1a9d61b9798459cee&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&type=yy
+宁夏卫视,https://migu.188766.xyz/?migutoken=fc3bf1bbccab16f7c62fc0926babfa0c&id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86&type=yy
 青海卫视,https://migu.188766.xyz/?migutoken=e9139f621189e3b84ddfd0a550431035&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&type=yy
 青海卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227017/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EacviHy_ucMT27Ymf2iLtZA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 青海卫视,http://lu.wqwqwq.sbs/itv/1000000002000013359.m3u8?cdn=ystenlive
@@ -548,6 +549,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 大湾区卫视,https://migu.188766.xyz/?migutoken=34a1462c7db45ee1a2fd04da0718a3bb&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
 大湾区卫视,https://migu.188766.xyz/?migutoken=349ba6aee69b0b5e44565af366457c3e&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
 大湾区卫视,https://migu.188766.xyz/?migutoken=43d2663bf1fa4cbb6e7ed18ec72fc109&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
+大湾区卫视,https://migu.188766.xyz/?migutoken=c37eae5a2c5cd489a9f2f2963fc07be6&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
 广州综合,http://r.jdshipin.com/iR6Gq
 广州综合,http://r.jdshipin.com/snhya
 广州综合,https://stream1.freetv.fun/yan-zhou-zong-he-19.ctv
@@ -869,6 +871,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 北京新闻,https://migu.188766.xyz/?migutoken=0ef2fc9bc88507f019663b90836be5f0&id=%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB&type=yy
 北京新闻,https://migu.188766.xyz/?migutoken=c4bf553cb20960ce6974512f0bd46f99&id=%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB&type=yy
 北京新闻,https://migu.188766.xyz/?migutoken=15ba165b832d886662c3a335b510ea45&id=%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB&type=yy
+北京新闻,https://migu.188766.xyz/?migutoken=c4f8ea5adb45b67de6b653598fa41dc8&id=%E5%8C%97%E4%BA%AC%E6%96%B0%E9%97%BB&type=yy
 北京生活,https://migu.188766.xyz/?migutoken=86ced870e8cae04154dc40422470d25e&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
 北京生活,https://migu.188766.xyz/?migutoken=1ec37ac6d06bea4e86b53d8a2aa610b0&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
 北京生活,https://migu.188766.xyz/?migutoken=b98e5b31a045e0cf440e01daf40e2bc2&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
@@ -876,12 +879,14 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 北京生活,https://migu.188766.xyz/?migutoken=52f32be084bad5c38137336b588ff56e&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
 北京生活,https://migu.188766.xyz/?migutoken=e0797405677bec6d208a9185bf5a44d0&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
 北京生活,https://migu.188766.xyz/?migutoken=3a2f9c3482730551e4931d3f87215614&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
+北京生活,https://migu.188766.xyz/?migutoken=adf681f0b3ec725ec8995fb99aa36560&id=%E5%8C%97%E4%BA%ACi%E7%94%9F%E6%B4%BB&type=yy
 北京财经,https://migu.188766.xyz/?migutoken=d71d0f32f175bfbfc2074260b093b10e&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
 北京财经,https://migu.188766.xyz/?migutoken=f2c3010e24a9e64a10803bc2107f3a3a&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
 北京财经,https://migu.188766.xyz/?migutoken=af4e3e0528ab54a5a50f45d7ef94e3f1&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
 北京财经,https://migu.188766.xyz/?migutoken=f342f50c63ddeaac26f4b7778f276aea&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
 北京财经,https://migu.188766.xyz/?migutoken=6ae820016b90b298355080786a305770&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
 北京财经,https://migu.188766.xyz/?migutoken=cf089cf4ae3acc77f5166c206516adb4&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
+北京财经,https://migu.188766.xyz/?migutoken=395657ad13a87a5637244d7bd1927fd8&id=%E5%8C%97%E4%BA%AC%E8%B4%A2%E7%BB%8F&type=yy
 
 ☘️上海频道,#genre#
 上海新闻综合,https://migu.188766.xyz/?migutoken=e3b998a950cdcf740d682ad44ef5001c&id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy
@@ -903,6 +908,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 上海第一财经,https://migu.188766.xyz/?migutoken=1f8e337aa337e55df46eee23022bb920&id=dycj&type=sz
 上海第一财经,https://migu.188766.xyz/?migutoken=9f52bdcc1ebec7a133f5c1dee079865e&id=dycj&type=sz
 上海第一财经,https://migu.188766.xyz/?migutoken=47021e12a2d0d2348ca8396af0c70052&id=dycj&type=sz
+上海第一财经,https://migu.188766.xyz/?migutoken=149289506e101f5b70c14b4a285075a1&id=dycj&type=sz
 上海纪实,http://iptv.huuc.edu.cn/hls/docuchina.m3u8
 上海纪实,https://stream1.freetv.fun/ipv6-shang-hai-ji-shi-ren-wen-2.m3u8
 上海纪实,https://stream1.freetv.fun/ipv6-shang-hai-ji-shi-ren-wen-3.m3u8
@@ -1423,6 +1429,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 海南新闻,https://migu.188766.xyz/?migutoken=699d7a2cff70a324689e506886a51928&id=hn_xwpd&type=sz
 海南新闻,https://migu.188766.xyz/?migutoken=82ea54ce4e49bfb82a3fc834aa72749e&id=hn_xwpd&type=sz
 海南新闻,https://migu.188766.xyz/?migutoken=9ca0f2a9fcbfc17ee5523aa1b3f7613f&id=hn_xwpd&type=sz
+海南新闻,https://migu.188766.xyz/?migutoken=60ac72a2f68ccc178ef4066f7f00d739&id=hn_xwpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=dd35e7e7720b264d4a6c12a4b8091db8&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=5f30f46abdd6ade8f25388012496670c&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=6f630f8e21be215ce4576e6d3b814698&id=hn_jjpd&type=sz
@@ -1430,6 +1437,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 海南自贸,https://migu.188766.xyz/?migutoken=00e742b70562529c493def878068ad9b&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=b5178d79436ef637af09a49715ab7d46&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=a68f53b6d5e59d79275feca3fce676a9&id=hn_jjpd&type=sz
+海南自贸,https://migu.188766.xyz/?migutoken=c4e6378e03283020511008d19c7f9eb5&id=hn_jjpd&type=sz
 海南文旅,https://migu.188766.xyz/?migutoken=282171f2c3810074f2592a7c968e9a5f&id=hn_wlpd&type=sz
 海南文旅,https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-7.m3u8
 海南文旅,https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-9.m3u8
@@ -1447,6 +1455,7 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 海南少儿,https://migu.188766.xyz/?migutoken=d6c9a7f34cc2e23083c192eb8304a6dd&id=hn_sepd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=21b160741a2d9738a550ef3c44b163d7&id=hn_sepd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=c274dc58b72d0f432759711dce8f6cf3&id=hn_sepd&type=sz
+海南少儿,https://migu.188766.xyz/?migutoken=79890760d7c6e0a76f4769be17150ff2&id=hn_sepd&type=sz
 海南公共,https://migu.188766.xyz/?migutoken=5965b67f88389a40ed05a7af1176e3a4&id=hn_ggpd&type=sz
 海南公共,https://stream1.freetv.fun/ipv6-hai-nan-gong-gong-8.m3u8
 海南公共,https://stream1.freetv.fun/ipv6-hai-nan-gong-gong-9.m3u8
@@ -2195,6 +2204,7 @@ JJ斗地主,https://live.iill.top/douyin/685317364746
 新动漫,https://migu.188766.xyz/?migutoken=a66c8f1507b55057bf70b4340867e643&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy
 新动漫,https://migu.188766.xyz/?migutoken=be27b64d49074cd7e97d1a806f39299a&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy
 新动漫,https://migu.188766.xyz/?migutoken=2e557e41c717ac2622e6554b60940eed&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy
+新动漫,https://migu.188766.xyz/?migutoken=30f0d4407d0bce592b61331088cfb9ae&id=%E6%96%B0%E5%8A%A8%E6%BC%AB&type=yy
 爱动漫,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000280630
 爱动漫,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000059/index.m3u8
 爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8
@@ -2293,4 +2303,4 @@ CCTV-15,https://migu.188766.xyz/?migutoken=976fbac5e882ddcd96c9232fff6c42ed&id=C
 射雕英雄传,https://live.metshop.top/huya/23824164
 
 🕘️更新时间,#genre#
-2026-02-17 15:41:49,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-02-18 15:47:03,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
