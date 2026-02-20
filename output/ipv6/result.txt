@@ -2320,4 +2320,4 @@ CCTV-15,https://migu.188766.xyz/?migutoken=976fbac5e882ddcd96c9232fff6c42ed&id=C
 射雕英雄传,https://live.metshop.top/huya/23824164
 
 🕘️更新时间,#genre#
-2026-02-19 15:42:02,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-02-20 15:47:01,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
