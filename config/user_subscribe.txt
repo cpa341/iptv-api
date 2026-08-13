@@ -1,0 +1,30 @@
+# 这是订阅源列表，每行一个订阅地址
+# This is a list of subscription sources, with one subscription address per line
+#http://119.91.7.169:5501/jmb21.txt
+#https://iptv-org.github.io/iptv/languages/zho.m3u
+#https://github.com/ssili126/tv/raw/refs/heads/main/itvlist.txt
+#https://github.com/yuanzl77/IPTV/raw/refs/heads/main/live.txt
+#https://github.com/zwc456baby/iptv_alive/raw/refs/heads/master/live.txt
+#https://github.com/cs3306/IPTV-Sources/raw/refs/heads/main/data/output/iptv_collection.m3u
+#http://117.72.68.25:9230/latest.txt
+#cctv4k位置不对https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
+#cctv4k位置不对https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+# https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
+# https://d.kstore.dev/download/12441/ds9.txt
+# http://210.245.166.84:1299/live/live.txt
+# https://dsj-1312694395.cos.ap-guangzhou.myqcloud.com/dsj10.1.txt
+# https://gitee.com/yimi321/tv/raw/master/tv.png
+https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+https://raw.githubusercontent.com/best-fan/iptv-sources/refs/heads/main/cn_cctv.m3u8
+https://raw.githubusercontent.com/best-fan/iptv-sources/refs/heads/main/cn_province.m3u8
+https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
+https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt
+http://1.94.31.214/live/live9/dgtv.txt
+
+# https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u
+
+[WHITELIST]
+# 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
+# This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.

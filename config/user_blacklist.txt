@@ -1,0 +1,13 @@
+# 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
+# This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
+/audio/
+bxtv.3a.ink
+catvod
+ottiptv
+38.75.136.137
+74.91.26.218
+bkpcp
+061899
+107.150.60.122
+freetv
+264788
