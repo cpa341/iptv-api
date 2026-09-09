@@ -22,6 +22,7 @@ https://raw.githubusercontent.com/best-fan/iptv-sources/refs/heads/main/cn_provi
 https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
 https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt
 http://1.94.31.214/live/live9/dgtv.txt
+https://d.kstore.dev/download/12441/ds9.txt
 
 # https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u
 
