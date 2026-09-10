@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv date="20260910082517 +0800">
+<tv date="20260910085359 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -22158,9 +22158,6 @@
 	<channel id="山西文体生活">
 		<display-name lang="zh">山西文体生活</display-name>
 	</channel>
-	<programme channel="山西文体生活" start="20260909071000 +0800" stop="20260909083800 +0800">
-		<title lang="zh">百家戏苑</title>
-	</programme>
 	<programme channel="山西文体生活" start="20260909083800 +0800" stop="20260909093800 +0800">
 		<title lang="zh">黎明决战（23）</title>
 	</programme>
@@ -22281,9 +22278,6 @@
 	<channel id="山西经济与科技">
 		<display-name lang="zh">山西经济与科技</display-name>
 	</channel>
-	<programme channel="山西经济与科技" start="20260909075800 +0800" stop="20260909082600 +0800">
-		<title lang="zh">专题</title>
-	</programme>
 	<programme channel="山西经济与科技" start="20260909082600 +0800" stop="20260909085600 +0800">
 		<title lang="zh">战天狼（19集）</title>
 	</programme>
@@ -22518,9 +22512,6 @@
 	<channel id="山西社会与法治">
 		<display-name lang="zh">山西社会与法治</display-name>
 	</channel>
-	<programme channel="山西社会与法治" start="20260909080200 +0800" stop="20260909082800 +0800">
-		<title lang="zh">生活服务</title>
-	</programme>
 	<programme channel="山西社会与法治" start="20260909082800 +0800" stop="20260909091000 +0800">
 		<title lang="zh">巡回检察组(3)</title>
 	</programme>
@@ -22722,9 +22713,6 @@
 	<channel id="山西影视">
 		<display-name lang="zh">山西影视</display-name>
 	</channel>
-	<programme channel="山西影视" start="20260909074900 +0800" stop="20260909084500 +0800">
-		<title lang="zh">炮神（21）</title>
-	</programme>
 	<programme channel="山西影视" start="20260909084500 +0800" stop="20260909094500 +0800">
 		<title lang="zh">炮神（22）</title>
 	</programme>
@@ -22857,9 +22845,6 @@
 	<channel id="黄河电视台">
 		<display-name lang="zh">黄河电视台</display-name>
 	</channel>
-	<programme channel="黄河电视台" start="20260909081800 +0800" stop="20260909084400 +0800">
-		<title lang="zh">档案</title>
-	</programme>
 	<programme channel="黄河电视台" start="20260909084400 +0800" stop="20260909095000 +0800">
 		<title lang="zh">特战英雄榜(17)</title>
 	</programme>
