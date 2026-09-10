@@ -9,8 +9,8 @@ https://github.com/cs3306/IPTV-Sources/raw/refs/heads/main/data/output/iptv_coll
 http://117.72.68.25:9230/latest.txt
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
-# https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
-# https://d.kstore.dev/download/12441/ds9.txt
+https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
+https://d.kstore.dev/download/12441/ds9.txt
 # http://210.245.166.84:1299/live/live.txt
 # https://dsj-1312694395.cos.ap-guangzhou.myqcloud.com/dsj10.1.txt
 # https://gitee.com/yimi321/tv/raw/master/tv.png
@@ -22,7 +22,6 @@ https://raw.githubusercontent.com/best-fan/iptv-sources/refs/heads/main/cn_provi
 https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
 https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt
 http://1.94.31.214/live/live9/dgtv.txt
-https://d.kstore.dev/download/12441/ds9.txt
 
 # https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u
 
