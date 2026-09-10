@@ -1,14 +1,14 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 #http://119.91.7.169:5501/jmb21.txt
-#https://iptv-org.github.io/iptv/languages/zho.m3u
-#https://github.com/ssili126/tv/raw/refs/heads/main/itvlist.txt
-#https://github.com/yuanzl77/IPTV/raw/refs/heads/main/live.txt
-#https://github.com/zwc456baby/iptv_alive/raw/refs/heads/master/live.txt
-#https://github.com/cs3306/IPTV-Sources/raw/refs/heads/main/data/output/iptv_collection.m3u
-#http://117.72.68.25:9230/latest.txt
-#cctv4k位置不对https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
-#cctv4k位置不对https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+https://iptv-org.github.io/iptv/languages/zho.m3u
+https://github.com/ssili126/tv/raw/refs/heads/main/itvlist.txt
+https://github.com/yuanzl77/IPTV/raw/refs/heads/main/live.txt
+https://github.com/zwc456baby/iptv_alive/raw/refs/heads/master/live.txt
+https://github.com/cs3306/IPTV-Sources/raw/refs/heads/main/data/output/iptv_collection.m3u
+http://117.72.68.25:9230/latest.txt
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 # https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 # https://d.kstore.dev/download/12441/ds9.txt
 # http://210.245.166.84:1299/live/live.txt
