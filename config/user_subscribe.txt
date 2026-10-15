@@ -1,27 +1,37 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-#http://119.91.7.169:5501/jmb21.txt
 https://d.kstore.dev/download/12441/ds9.txt
-http://210.245.166.84:1299/live/live1.txt
-https://fastgit.cc/https://raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.txt
-https://iptv-org.github.io/iptv/languages/zho.m3u
-https://github.com/ssili126/tv/raw/refs/heads/main/itvlist.txt
-https://github.com/zwc456baby/iptv_alive/raw/refs/heads/master/live.txt
-https://github.com/cs3306/IPTV-Sources/raw/refs/heads/main/data/output/iptv_collection.m3u
-http://117.72.68.25:9230/latest.txt
-https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
-https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
-http://210.245.166.84:1299/live/live.txt
-https://dsj-1312694395.cos.ap-guangzhou.myqcloud.com/dsj10.1.txt
-https://gitee.com/yimi321/tv/raw/master/tv.png
-https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
-https://raw.githubusercontent.com/best-fan/iptv-sources/refs/heads/main/cn_cctv.m3u8
-https://raw.githubusercontent.com/best-fan/iptv-sources/refs/heads/main/cn_province.m3u8
-https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
-https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt
+http://rihou.cc:555/gggg.nzk
+https://fastgit.cc/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+https://fastgit.cc/https://github.com/fafa002/yf2025/blob/main/yiyifafa.txt
+http://www.52top.com.cn:678/downloads/migu.txt
+https://gongdian.top/tv/ku9/webview.txt
+https://gongdian.top/tv/ku9/js/webview.js
+https://jikefuye.cn/zhibo.txt
+https://gitee.com/xxhit/hu/raw/master/live.txt
+https://fastgit.cc/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt
+https://fastgit.cc/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/suale.txt
+https://d.kstore.dev/download/11344/yunduan.txt
+https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
+https://fastgit.cc/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
 http://1.94.31.214/live/live9/dgtv.txt
+http://west.shaonv.me/tvbox/live.txt
+https://fastgit.cc/https://raw.githubusercontent.com/nianxinmj/nxpz/refs/heads/main/lib/live.txt
+https://fastgit.cc/https:/raw.githubusercontent.com/big-mouth-cn/tv/main/iptv-ok.m3u
+https://fastgit.cc/https://raw.githubusercontent.com/Wirili/IPTV/main/live.txt
+https://fastgit.cc/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
+https://fastgit.cc/https://raw.githubusercontent.com/yoursmile66/TVBox/main/live.txt
+http://210.245.166.84:1299/live/live1.txt
+http://iptv.4666888.xyz/FYTV.txt
+https://fastgit.cc/https://raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.txt
+https://fastgit.cc/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt
+http://xhztv.top/new.txt
+http://210.245.166.84:1299/live/live.txt
+https://fastgit.cc/https://github.com/Kimentanm/aptv/raw/master/m3u/iptv.m3u
+https://pan.vma.cc/pan/down.php/350735607a786faaaa69aa5bbe3a3078.txt
+https://5266.kstore.space/xiangxichuanshuo.txt
+https://fastgit.cc/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/huyayqk.m3u
+https://fastgit.cc/https://raw.githubusercontent.com/mursor1985/LIVE/refs/heads/main/douyuyqk.m3u
 
 # https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u
 
