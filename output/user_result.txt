@@ -13,7 +13,7 @@ CCTV-2,http://183.30.201.38:10002/rtp/239.77.0.137:5146
 CCTV-2,http://you1104.3322.org:8188/rtp/225.1.2.78:10462
 CCTV-2,https://tv.cctv.com/live/cctv2/
 CCTV-2,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv2_1/index.m3u8?b=200-2100
-CCTV-3,http://69.30.245.50/live/cctv3.m3u8
+CCTV-3,http://45.192.97.170:8880/play/3.m3u8
 CCTV-3,http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
 CCTV-3,http://101.66.198.84:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-3,http://120.238.94.82:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
