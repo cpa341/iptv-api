@@ -61,8 +61,8 @@ CCTV-8,http://www.kem.ink:8188/rtp/239.77.0.181:5146
 CCTV-8,http://14.157.24.38:2345/rtp/239.77.0.172:5146
 CCTV-8,http://45.192.97.170:8880/play/88.m3u8
 CCTV-8,http://14.157.24.38:2345/rtp/239.77.1.10:5146
-CCTV-9,http://45.192.97.170:8880/play/89.m3u8
-CCTV-9,http://45.192.97.170:8880/play/72.m3u8
+CCTV-9,http://61.138.99.166:1080/hls/9/index.m3u8
+CCTV-9,http://122.136.195.178:8085/hls/9/index.m3u8
 CCTV-9,http://101.66.198.84:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV-9,http://120.198.84.146:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9,https://tv.cctv.com/live/cctvjilu/
