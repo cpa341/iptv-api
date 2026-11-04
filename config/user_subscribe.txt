@@ -1,5 +1,6 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
+https://yc.wya6.cn/pz/zh.php
 https://d.kstore.dev/download/12441/ds9.txt
 http://rihou.cc:555/gggg.nzk
 https://fastgit.cc/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
