@@ -42,7 +42,9 @@ CCTV-5,http://you1104.3322.org:8188/rtp/225.1.2.48:10282
 CCTV-5,https://tv.cctv.com/live/cctv5/
 CCTV-6,http://you1104.3322.org:8188/rtp/225.1.2.143:10876
 CCTV-6,http://120.198.84.146:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6,https://tv.cctv.com/live/cctv6/
+CCTV-6,http://120.198.84.146:9901/tsfile/live/1028_1.m3u8
+CCTV-6,http://112.92.129.96:9898/hls/24/index.m3u8
+CCTV-6,http://1.24.39.180:808/hls/6/index.m3u8
 CCTV-7,http://45.192.97.170:8880/play/87.m3u8
 CCTV-7,https://tv.cctv.com/live/cctv7/
 CCTV-7,http://120.198.84.146:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
